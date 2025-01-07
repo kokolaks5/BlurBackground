@@ -1,6 +1,7 @@
 streamlit
 pillow
-opencv-python
+# opencv-python
 rembg
 onnxruntime
 onnxruntime-gpu
+opencv-python-headless
