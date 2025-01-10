@@ -11,6 +11,7 @@ A simple Python application that uses OpenCV to blur the background from your ph
   - [Overview](#overview)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [You can try it out here:](#you-can-try-it-out-here)
   - [License](#license)
 
 ## Overview
@@ -40,6 +41,9 @@ streamlit run app.py
 This will launch the application, and you can select an image file to blur its background.
 Contributing
 
+## You can try it out here:
+
+https://blur100.streamlit.app/
 
 ## License
 
